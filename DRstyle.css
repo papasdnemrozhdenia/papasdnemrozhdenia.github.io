@@ -1,0 +1,36 @@
+#photo {
+    height: 480px;
+    width: 640px;
+    position: absolute;
+    left: 470px;
+    top: 280px;
+}
+#butt1 {
+    height: 180px;
+    width: 180px;
+    position: absolute;
+    left: 220px;
+    top: 430px;
+}
+#butt2 {
+    height: 180px;
+    width: 180px;
+    position: absolute;
+    left: 1180px;
+    top: 430px;
+}
+#pozdravlenie {
+    text-align: center;
+    font-size: 3em;
+}
+#photext {
+    text-align: center;
+    font-size: 2em;
+}
+#polza {
+    position: absolute;
+    top: 790px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
